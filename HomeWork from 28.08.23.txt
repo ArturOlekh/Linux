@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "your name is: Artur"
+echo "your working is: /opt/240723_evening/Artur"
+echo "Number of users: top"
+echo "done"
+
